@@ -30,7 +30,7 @@ export default function HeaderAdmin() {
                       to={`/`}
                       className=" p-2 text-black hover:text-primary  hover:bg-base1 hover:underline"
                     >
-                      Home
+                      Beranda
                     </Link>
 
                     <button
