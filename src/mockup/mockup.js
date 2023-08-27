@@ -55,7 +55,7 @@ export const produk = [
 
 export const nav = [
   {
-    name: "Home",
+    name: "Beranda",
     path: "/",
   },
 
